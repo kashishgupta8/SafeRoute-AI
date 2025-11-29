@@ -1,0 +1,23 @@
+{
+  "scenario": "SafeRoute AI - Metro Check-In Agent",
+  "modules": [
+    {
+      "id": "webhook_1",
+      "type": "webhook",
+      "event": "check_in_or_out"
+    },
+    {
+      "id": "gemini_ai",
+      "type": "gemini.generateResponse",
+      "model": "gemini-1.5-flash",
+      "input": "Analyze incoming metro event and create safety message"
+    },
+    {
+      "id": "email_sender",
+      "type": "email",
+      "to": "FAMILY_EMAIL_LIST",
+      "subject": "Metro Check-In/Out Alert",
+      "content": "AI-generated message"
+    }
+  ]
+}
