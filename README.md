@@ -102,5 +102,12 @@ I would extend SafeRoute AI into a full civic-tech safety tool:
 ## 📌 Demo Video
 Watch the full project demo here: https://youtu.be/DFq5ZWTmiDY?feature=shared
 
+License
+This Writeup has been released under the Attribution 4.0 International (CC BY 4.0) license.
+
+Citation
+Kashish Gupta. SafeRoute AI: Automated Metro Check-In Agent. https://www.kaggle.com/competitions/agents-intensive-capstone-project/writeups/new-writeup-1764318230701. 2025. Kaggle
+
+
 ---
 
