@@ -97,8 +97,10 @@ I would extend SafeRoute AI into a full civic-tech safety tool:
 ---
 
 ## 📎 Project Links  
-- Kaggle Submission Page: *to be added after submission*  
-- GitHub Repository: https://github.com/yourusername/SafeRoute-AI  
+- Kaggle Submission Page: kaggle.com/competitions/agents-intensive-capstone-project/writeups/new-writeup-1764318230701
+
+## 📌 Demo Video
+Watch the full project demo here: https://youtu.be/DFq5ZWTmiDY?feature=shared
 
 ---
 
