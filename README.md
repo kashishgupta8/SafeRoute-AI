@@ -94,6 +94,8 @@ I would extend SafeRoute AI into a full civic-tech safety tool:
 - Add **location-sharing timeline** for families  
 - Deploy as a **mobile app** with background activity  
 
+The agent uses Make.com as the cloud execution layer. The architecture includes input triggers (Telegram), an agent reasoning block, and outgoing actions (email notifications). Context and grounding are passed through the workflow.
+The agent is deployed privately on Make.com. For security reasons, the webhook URL is not public. Reproduction instructions are included.
 ---
 
 ## 📎 Project Links  
