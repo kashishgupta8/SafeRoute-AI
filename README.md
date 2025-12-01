@@ -34,9 +34,9 @@ SafeRoute AI uses an AI Agent to:
 ---
 
 ## 🏗️ What I Built — Architecture Overview  
-SafeRoute AI is a **no-code/low-code agent** built using:
+SafeRoute AI is a **agent** built using:
 
-- **Make.com** (automation workflow)  
+- **automation workflow** 
 - **Google Gemini 1.5 Flash** (AI reasoning + message generation)  
 - **Webhook Triggers** (simulate metro check-in/check-out event)  
 - **Email Notifications** (default output channel)  
@@ -72,7 +72,7 @@ Demo details available in `demo.md`.
 ## 🛠️ The Build — Tools & Technologies  
 | Component | Purpose |
 |----------|---------|
-| **Make.com** | No-code workflow automation |
+| **Integration** | workflow automation |
 | **Google Gemini Flash 1.5** | AI reasoning + message creation |
 | **Custom Webhook** | Metro event trigger |
 | **Email Module** | Sends alerts to trusted contacts |
